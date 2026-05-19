@@ -1,0 +1,14 @@
+# 대용량 파일 제외
+*.pdf
+*.epub
+*.zip
+*.rar
+
+# OS 파일
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 에디터
+.vscode/
+.idea/
