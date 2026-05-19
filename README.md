@@ -7,15 +7,16 @@
 
 ## 📂 목록
 
-| 책 | 저자 | 챕터 수 | 링크 |
-|----|------|:-------:|------|
-| 게임 프로그래밍 패턴 | Robert Nystrom | 21 | [바로가기](https://github.com/khfe730-source/study/tree/main/게임프로그래밍패턴/README.md) |
+| 책 | 저자 | 아이템/챕터 수 | 링크 |
+|----|------|:-----------:|------|
+| 게임 프로그래밍 패턴 | Robert Nystrom | 21챕터 | [바로가기](https://github.com/khfe730-source/study/tree/main/게임프로그래밍패턴/README.md) |
+| Effective C# (3rd Edition) | Bill Wagner | 28아이템 / 50아이템 | [바로가기](https://github.com/khfe730-source/study/tree/main/EffectiveC%23/README.md) |
 
 ---
 
 ## 정리 방식
 
-- 챕터 단위 `.md` 파일로 분리
+- 책 성격에 따라 챕터 또는 아이템 단위 `.md` 파일로 분리
 - 전문가 수준으로 작성 (기초 설명 생략)
 - 한국어 기술, 전문 용어는 영어 병기 예: 캐시 라인(cache line)
 - ASCII 다이어그램으로 구조 시각화
