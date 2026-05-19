@@ -10,7 +10,7 @@
 | 책 | 저자 | 아이템/챕터 수 | 링크 |
 |----|------|:-----------:|------|
 | 게임 프로그래밍 패턴 | Robert Nystrom | 21챕터 | [바로가기](https://github.com/khfe730-source/study/tree/main/게임프로그래밍패턴/README.md) |
-| Effective C# (3rd Edition) | Bill Wagner | 28아이템 / 50아이템 | [바로가기](https://github.com/khfe730-source/study/tree/main/EffectiveC%23/README.md) |
+| Effective C# (3rd Edition) | Bill Wagner | 50아이템 / 50아이템 | [바로가기](https://github.com/khfe730-source/study/tree/main/EffectiveC%23/README.md) |
 
 ---
 
