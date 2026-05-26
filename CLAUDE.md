@@ -7,8 +7,9 @@
 - 책(book) 별로 디렉토리가 존재한다
 - 해당 디렉토리 하위에 `docs` 디렉토리를 생성 후 그 안에 정리 파일을 생성한다
 - 책 성격에 따라 챕터 단위 또는 아이템 단위로 `.md` 파일을 분리한다
-  - 예) 게임프로그래밍패턴 → `03_command.md` (챕터 단위)
-  - 예) Effective C# → `item01.md` (아이템 단위)
+  - 챕터 단위: `chapterXX_{챕터제목}.md` — 예) `chapter01_Introduction.md`
+  - 아이템 단위: `itemXX_{아이템제목}.md` — 예) `item01_UsePropertiesInsteadOfAccessibleDataMembers.md`
+  - 기존 예외: 게임프로그래밍패턴은 `03_command.md` 형식 유지
 
 ## 작성 규칙
 
@@ -24,7 +25,7 @@
 ### 1. 책 단위 README (`{book}/README.md`)
 - 위치: `docs`와 같은 수준의 디렉토리 (예: `E:\book\EffectiveC#\README.md`)
 - 새 아이템/챕터가 추가되면 해당 항목을 테이블에 추가한다
-- 링크 형식: `./docs/itemXX.md` 또는 `./docs/XX_title.md`
+- 링크 형식: `./docs/chapterXX_{제목}.md` 또는 `./docs/itemXX_{제목}.md`
 
 ### 2. 루트 README (`E:\book\README.md`)
 - 새 책 디렉토리가 추가되면 목록 테이블에 해당 책을 추가한다
