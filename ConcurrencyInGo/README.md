@@ -15,9 +15,8 @@ Go의 동시성 모델(CSP 기반), 고루틴·채널·sync 패키지 등 빌딩
 | 2 | Modeling Your Code: Communicating Sequential Processes | 동시성 vs 병렬성, CSP, Go의 동시성 철학 | [바로가기](./docs/chapter02_ModelingYourCode_CSP.md) |
 | 3 | Go's Concurrency Building Blocks | 고루틴, sync 패키지, 채널, select, GOMAXPROCS | [바로가기](./docs/chapter03_GoConcurrencyBuildingBlocks.md) |
 | 4 | Concurrency Patterns in Go | Confinement, Pipeline, Fan-Out/In, or-done, tee, bridge, context | [바로가기](./docs/chapter04_ConcurrencyPatterns.md) |
-| 5 | Concurrency at Scale | 에러 전파, 타임아웃/취소, 하트비트, 레이트 리미팅, 고루틴 복구 | - |
-| 6 | Goroutines and the Go Runtime | Work Stealing, 런타임 스케줄러 내부 | - |
-| A | Appendix | 고루틴 에러 해부, 레이스 감지, pprof | - |
+| 5 | Concurrency at Scale | 에러 전파, 타임아웃/취소, 하트비트, 레이트 리미팅, 고루틴 복구 | [바로가기](./docs/chapter05_ConcurrencyAtScale.md) |
+| 6 | Goroutines and the Go Runtime | Work Stealing, 연속 도둑질, G/M/P 구조, 레이스 감지, pprof | [바로가기](./docs/chapter06_GoroutinesAndGoRuntime.md) |
 
 ---
 

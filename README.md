@@ -14,7 +14,7 @@
 | Operating System Concepts (10th Edition) | Silberschatz, Galvin, Gagne | 19챕터 / 25챕터 | [바로가기](./OperatingSystemConcepts/README.md) |
 | Database System Concepts (7th Edition) | Silberschatz, Korth, Sudarshan | 23챕터 | [바로가기](./DatabaseSystemConcepts/README.md) |
 | Computer Systems: A Programmer's Perspective (3rd Edition) | Bryant, O'Hallaron | 12챕터 | [바로가기](./ComputerSystems/README.md) |
-| Concurrency in Go | Katherine Cox-Buday | 1챕터 / 7챕터 | [바로가기](./ConcurrencyInGo/README.md) |
+| Concurrency in Go | Katherine Cox-Buday | 6챕터 / 6챕터 | [바로가기](./ConcurrencyInGo/README.md) |
 
 ---
 
