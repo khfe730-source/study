@@ -21,6 +21,7 @@ C 프로그램이 어떻게 기계어로 변환되고, 프로세서/메모리/OS
 | Chapter 9 | Virtual Memory | 가상/물리 주소 지정, VM 3역할(캐시/관리/보호), 페이지 테이블·PTE·페이지 폴트·demand paging, TLB, 다단계 페이지 테이블, Core i7 4단계 변환(CR3·XD/A/D 비트), Linux vm_area_struct, Memory Mapping(CoW·mmap·fork/execve 구현), malloc/free(내부·외부 단편화, 묵시적 자유 리스트, 경계 태그 합체, 분리 자유 리스트), C 메모리 버그 10종 | [보기](./docs/chapter09_VirtualMemory.md) |
 | Chapter 10 | System-Level I/O | Unix I/O(파일 디스크립터·EOF·short count), 파일 타입, open/close/read/write, Rio 패키지(비버퍼/버퍼 함수·신호 안전 재시도), stat/fstat, 디렉토리 읽기, 파일 공유(디스크립터 테이블·파일 테이블·v-node), fork와 파일 위치 공유, dup2 리다이렉션, 표준 I/O vs Rio 선택 가이드라인 | [보기](./docs/chapter10_SystemLevelIO.md) |
 | Chapter 11 | Network Programming | 클라이언트-서버 모델, LAN/WAN/인터넷 계층, TCP/IP·IP 주소·바이트 순서(htonl/ntohl)·inet_pton/ntop, 도메인 이름·DNS, 소켓 연결(4-tuple·임시포트·well-known 포트), 소켓 API(socket/connect/bind/listen/accept), getaddrinfo/getnameinfo, open_clientfd/open_listenfd, HTTP(요청/응답/상태코드), CGI(QUERY_STRING·dup2·fork+execve), Tiny Web Server | [보기](./docs/chapter11_NetworkProgramming.md) |
+| Chapter 12 | Concurrent Programming | 동시성 3방식(프로세스/I-O다중화/스레드), select·fd_set·이벤트 주도 서버, Pthreads API(create/join/detach/cancel/once), 공유 변수 메모리 모델, 세마포어 P/V·뮤텍스·진행 그래프, 생산자-소비자(sbuf_t 3-세마포어), 독자-저자, 사전 스레딩 서버, 병렬 프로그래밍(스피드업·효율성), 스레드 안전성 4클래스·재진입성·lock-and-copy, 레이스·교착 상태 방지 | [보기](./docs/chapter12_ConcurrentProgramming.md) |
 
 ---
 
