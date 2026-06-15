@@ -15,6 +15,7 @@
 | Database System Concepts (7th Edition) | Silberschatz, Korth, Sudarshan | 23챕터 | [바로가기](./DatabaseSystemConcepts/README.md) |
 | Computer Systems: A Programmer's Perspective (3rd Edition) | Bryant, O'Hallaron | 12챕터 | [바로가기](./ComputerSystems/README.md) |
 | Concurrency in Go | Katherine Cox-Buday | 6챕터 / 6챕터 | [바로가기](./ConcurrencyInGo/README.md) |
+| Effective Go | The Go Authors | 16챕터 | [바로가기](./EffectiveGolang/README.md) |
 
 ---
 
